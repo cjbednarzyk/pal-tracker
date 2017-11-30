@@ -2,6 +2,6 @@
 applications:
 - name: pal-tracker
   path: build/libs/pal-tracker.jar
-  host: cjb-pal-tracker
+  host: cjb-pal-tracker-review
   services:
   - tracker-database
